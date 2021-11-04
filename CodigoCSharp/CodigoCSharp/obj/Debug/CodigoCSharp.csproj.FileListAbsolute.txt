@@ -1,0 +1,7 @@
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\bin\Debug\CodigoCSharp.exe.config
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\bin\Debug\CodigoCSharp.exe
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\bin\Debug\CodigoCSharp.pdb
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\obj\Debug\CodigoCSharp.csproj.AssemblyReference.cache
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\obj\Debug\CodigoCSharp.csproj.CoreCompileInputs.cache
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\obj\Debug\CodigoCSharp.exe
+C:\FTI Turma 4\Lógica de Programação\CodigoCSharp\CodigoCSharp\obj\Debug\CodigoCSharp.pdb
